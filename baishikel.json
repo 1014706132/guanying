@@ -16,13 +16,13 @@
             "itemid": "uid0000",
             "name": "死侍",
             "num": "00003",
-            "urllist": "http://tudou.com-l-tudou.com/20181220/15148_204c3758/index.m3u8"
+            "urllist": "http://cdn-3.haku99.com/hls/2019/01/03/51hvR7GN/playlist.m3u8"
         },
         {
             "itemid": "uid0000",
             "name": "死侍2",
             "num": "00004",
-            "urllist": "http://letv.com-v-letv.com/20180807/7145_53d9f608/index.m3u8"
+            "urllist": "http://cdn-2.haku99.com/hls/2019/01/03/TqrfVWRV/playlist.m3u8"
         },
         {
             "itemid": "uid0000",
@@ -34,13 +34,13 @@
             "itemid": "uid0000",
             "name": "雷霆沙赞",
             "num": "00006",
-            "urllist": "http://youku.com-okzy.com/20190511/289_88a16e35/index.m3u8"
+            "urllist": "http://youku.com-okzy.com/20190511/289_88a16e35/index.m3u8#http://cdn-2.haku99.com/hls/2019/04/07/flvO5ZbD/playlist.m3u8"
         },
         {
             "itemid": "uid0000",
             "name": "侏罗纪公园",
             "num": "00007",
-            "urllist": "http://vip.okokbo.com/20180319/hbx8hyiV/index.m3u8"
+            "urllist": "http://cdn-2.haku99.com/hls/2018/12/10/mX6aqKHt/playlist.m3u8"
         },
         {
             "itemid": "uid0000",
@@ -146,39 +146,39 @@
         },
         {
             "itemid": "uid0001",
-            "name": "复仇者联盟2：奥创纪元",
+            "name": "复仇者联盟2奥创纪元",
             "num": "00025",
-            "urllist": "http://youku.com-i-youku.com/20181004/9753_762d7aa7/index.m3u8"
+            "urllist": "http://cdn-5.haku99.com/hls/2019/05/17/0OFErw5Q/playlist.m3u8"
         },
         {
             "itemid": "uid0001",
-            "name": "复仇者联盟3：无限战争",
+            "name": "复仇者联盟3无限战争",
             "num": "00026",
-            "urllist": "http://sohu.com-v-sohu.com/20180730/11849_67992eeb/index.m3u8"
+            "urllist": "http://cdn-5.haku99.com/hls/2019/04/24/wxeE15vs/playlist.m3u8"
         },
         {
             "itemid": "uid0001",
             "name": "黑豹",
             "num": "00027",
-            "urllist": "http://tudou.com-l-tudou.com/20180501/10726_d027d600/index.m3u8"
+            "urllist": "http://cdn-4.haku99.com/hls/2019/02/09/rTsM1GZm/playlist.m3u8"
         },
         {
             "itemid": "uid0001",
             "name": "蚁人",
             "num": "00028",
-            "urllist": "http://iqiyi.com-l-iqiyi.com/20171128/JQPNBqRh/index.m3u8"
+            "urllist": "http://cdn-5.haku99.com/hls/2019/05/10/5YEwVI8u/playlist.m3u8"
         },
         {
             "itemid": "uid0001",
             "name": "蚁人2黄蜂女现身",
             "num": "00029",
-            "urllist": "http://sohu.com-v-sohu.com/20181001/13181_aad93c60/index.m3u8"
+            "urllist": "http://cdn-5.haku99.com/hls/2019/05/10/dz4ZhbwY/playlist.m3u8"
         },
         {
             "itemid": "uid0001",
             "name": "奇异博士",
             "num": "00030",
-            "urllist": "http://baidu.com-l-baidu.com/20180508/404_b396ce05/index.m3u8"
+            "urllist": "http://cdn-3.haku99.com/hls/2019/01/29/SnLybfE8/playlist.m3u8"
         },
         {
             "itemid": "uid0001",
@@ -208,13 +208,13 @@
             "itemid": "uid0002",
             "name": "神奇动物1",
             "num": "00035",
-            "urllist": "http://iqiyi.com-l-iqiyi.com/20180126/6IpyMvd9/index.m3u8"
+            "urllist": "http://cdn-2.haku99.com/hls/2018/12/10/i0Y7brMr/playlist.m3u8"
         },
         {
             "itemid": "uid0002",
             "name": "神奇动物2",
             "num": "00036",
-            "urllist": "http://iqiyi.com-l-iqiyi.com/20190126/21304_91ea1584/index.m3u8"
+            "urllist": "http://cdn-2.haku99.com/hls/2018/12/31/CYJW0B39/playlist.m3u8"
         },
         {
             "itemid": "uid0002",
@@ -352,13 +352,13 @@
             "itemid": "uid0004",
             "name": "何以为家",
             "num": "00059",
-            "urllist": "http://iqiyi.com-l-iqiyi.com/20190301/21772_5abc4341/index.m3u8"
+            "urllist": "https://iqiyi.com-l-iqiyi.com/20190301/21772_5abc4341/index.m3u8"
         },
         {
             "itemid": "uid0004",
             "name": "老师好",
             "num": "00060",
-            "urllist": "http://youku.com-okzy.com/20190501/163_d35d02c7/index.m3u8"
+            "urllist": "https://cdn-5.haku99.com/hls/2019/05/01/IAI7ZFFe/playlist.m3u8"
         },
         {
             "itemid": "uid0005",
