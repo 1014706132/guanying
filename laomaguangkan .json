@@ -1,0 +1,518 @@
+{
+    "live": [
+        {
+            "itemid": "uid0000",
+            "name": "第01集",
+            "num": "00001",
+            "urllist": "http://sina.com-h-sina.com/20180811/7709_0172da43/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "第02集",
+            "num": "00002",
+            "urllist": "http://sina.com-h-sina.com/20180811/7710_00b4e5cd/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "第03集",
+            "num": "00003",
+            "urllist": "http://sina.com-h-sina.com/20180811/7711_d4a20971/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "第04集",
+            "num": "00004",
+            "urllist": "http://sina.com-h-sina.com/20180811/7712_846a7beb/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "第05集",
+            "num": "00005",
+            "urllist": "http://sina.com-h-sina.com/20180811/7713_6d87c307/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "第06集",
+            "num": "00006",
+            "urllist": "http://sina.com-h-sina.com/20180811/7714_96b8cd72/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "第07集",
+            "num": "00007",
+            "urllist": "http://sina.com-h-sina.com/20180811/7715_72d80aec/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "第08集",
+            "num": "00008",
+            "urllist": "http://sina.com-h-sina.com/20180811/7716_1f1597fc/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "第09集",
+            "num": "00009",
+            "urllist": "http://sina.com-h-sina.com/20180811/7717_9682cce4/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "第10集",
+            "num": "00010",
+            "urllist": "http://sina.com-h-sina.com/20180811/7718_f640ec70/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "第11集",
+            "num": "00011",
+            "urllist": "http://sina.com-h-sina.com/20180811/7719_75719df5/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "第12集",
+            "num": "00012",
+            "urllist": "http://sina.com-h-sina.com/20180811/7720_1f5124d7/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "第13集",
+            "num": "00013",
+            "urllist": "http://sina.com-h-sina.com/20180811/7721_56c2e18a/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "第14集",
+            "num": "00014",
+            "urllist": "http://sina.com-h-sina.com/20180811/7722_20151ae9/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "第15集",
+            "num": "00015",
+            "urllist": "http://sina.com-h-sina.com/20180811/7723_35f9dcaa/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "第16集",
+            "num": "00016",
+            "urllist": "http://sina.com-h-sina.com/20180811/7724_1f7521d9/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "第17集",
+            "num": "00017",
+            "urllist": "http://sina.com-h-sina.com/20180811/7725_ecb602d9/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "第18集",
+            "num": "00018",
+            "urllist": "http://sina.com-h-sina.com/20180811/7726_06e395a6/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "第19集",
+            "num": "00019",
+            "urllist": "http://sina.com-h-sina.com/20180811/7727_ce064b60/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "第20集",
+            "num": "00020",
+            "urllist": "http://sina.com-h-sina.com/20180811/7728_4839543b/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "第21集",
+            "num": "00021",
+            "urllist": "http://sina.com-h-sina.com/20180811/7729_7e9364b1/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "第22集",
+            "num": "00022",
+            "urllist": "http://sina.com-h-sina.com/20180811/7730_fb2f4dd3/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "第23集",
+            "num": "00023",
+            "urllist": "http://sina.com-h-sina.com/20180811/7731_5d236080/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "第24集",
+            "num": "00024",
+            "urllist": "http://sina.com-h-sina.com/20180811/7732_3d5ac868/index.m3u8"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "钢铁侠",
+            "num": "00025",
+            "urllist": "http://vip.okzybo.com/20180131/cM3ffbbg/index.m3u8"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "钢铁侠2",
+            "num": "00026",
+            "urllist": "http://vip.okzybo.com/20180131/BXxEVRgn/index.m3u8"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "钢铁侠3",
+            "num": "00027",
+            "urllist": "http://vip.okokbo.com/20171220/eEwHCrjh/index.m3u8"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "美国队长",
+            "num": "00028",
+            "urllist": "http://v3.yongjiujiexi.com/20190501/coamOxeP/index.m3u8"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "美国队长2",
+            "num": "00029",
+            "urllist": "http://v3.yongjiujiexi.com/20190501/D8lS6ryl/index.m3u8"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "雷神",
+            "num": "00030",
+            "urllist": "http://v3.yongjiujiexi.com/20190430/1uwqGA46/index.m3u8"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "雷神2黑暗世界",
+            "num": "00031",
+            "urllist": "http://vip.okokbo.com/20171230/i9cKN1m9/index.m3u8"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "雷神3:诸神黄昏",
+            "num": "00032",
+            "urllist": "http://vip.okzybo.com/20180121/NyAC6v4i/index.m3u8"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "蜘蛛侠 国语",
+            "num": "00033",
+            "urllist": "http://vip.okokbo.com/20180104/AfhcY2o8/index.m3u8"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "蜘蛛侠2",
+            "num": "00034",
+            "urllist": "http://vip.okokbo.com/20180319/0tyoc1gX/index.m3u8"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "蜘蛛侠3",
+            "num": "00035",
+            "urllist": "http://vip.okzybo.com/20180329/0mhcJHOr/index.m3u8"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "蜘蛛侠英雄归来",
+            "num": "00036",
+            "urllist": "http://cdn.okokyun.com/20171005/XHMWjGQI/index.m3u8"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "复仇者联盟",
+            "num": "00037",
+            "urllist": "http://vip.okokbo.com/20180316/hH8msi8C/index.m3u8"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "复仇者联盟2奥创纪元",
+            "num": "00038",
+            "urllist": "http://cdn-5.haku99.com/hls/2019/05/17/0OFErw5Q/playlist.m3u8"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "复仇者联盟3无限战争",
+            "num": "00039",
+            "urllist": "http://cdn-5.haku99.com/hls/2019/04/24/wxeE15vs/playlist.m3u8"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "黑豹",
+            "num": "00040",
+            "urllist": "http://cdn-4.haku99.com/hls/2019/02/09/rTsM1GZm/playlist.m3u8"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "蚁人",
+            "num": "00041",
+            "urllist": "http://cdn-5.haku99.com/hls/2019/05/10/5YEwVI8u/playlist.m3u8"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "蚁人2黄蜂女现身",
+            "num": "00042",
+            "urllist": "http://cdn-5.haku99.com/hls/2019/05/10/dz4ZhbwY/playlist.m3u8"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "奇异博士",
+            "num": "00043",
+            "urllist": "http://cdn-3.haku99.com/hls/2019/01/29/SnLybfE8/playlist.m3u8"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "银河护卫队",
+            "num": "00044",
+            "urllist": "http://vip.okokbo.com/20180319/7Ddkr3gr/index.m3u8"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "银河护卫队2",
+            "num": "00045",
+            "urllist": "http://ifeng.com-l-ifeng.com/20180610/11042_8149dd70/index.m3u8"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "绿巨人浩克",
+            "num": "00046",
+            "urllist": "http://vip.okokbo.com/20180123/5dKcPU0F/index.m3u8"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "无敌浩克",
+            "num": "00047",
+            "urllist": "http://vip.okokbo.com/20180107/tNokkYoQ/index.m3u8"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "神奇动物1",
+            "num": "00048",
+            "urllist": "http://cdn-2.haku99.com/hls/2018/12/10/i0Y7brMr/playlist.m3u8"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "神奇动物2",
+            "num": "00049",
+            "urllist": "http://cdn-2.haku99.com/hls/2018/12/31/CYJW0B39/playlist.m3u8"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "惊天魔盗团",
+            "num": "00050",
+            "urllist": "http://v3.yongjiujiexi.com/20190514/Un1z8ZIH/index.m3u8"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "惊天魔盗团2",
+            "num": "00051",
+            "urllist": "http://v3.yongjiujiexi.com/20190514/E9suFsmz/index.m3u8"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "魔法保姆",
+            "num": "00052",
+            "urllist": "http://vip.okokbo.com/20171226/yvqxFoVQ/index.m3u8"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "魔法保姆麦克菲2",
+            "num": "00053",
+            "urllist": "http://vip.okokbo.com/20180104/tKlQ7gCl/index.m3u8"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "哈利·波特与魔法石",
+            "num": "00054",
+            "urllist": "http://vip.okokbo.com/20180320/6x2YQlVT/index.m3u8"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "哈利·波特与密室",
+            "num": "00055",
+            "urllist": "http://vip.okokbo.com/20180320/3NnFlKZ0/index.m3u8"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "哈利·波特与阿兹卡班的囚徒",
+            "num": "00056",
+            "urllist": "http://vip.okokbo.com/20180320/W02zEfgY/index.m3u8"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "美女与野兽",
+            "num": "00057",
+            "urllist": "http://cdn-3.haku99.com/hls/2019/01/30/tupQOH5X/playlist.m3u8"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "灰姑娘",
+            "num": "00058",
+            "urllist": "http://vip.okokbo.com/20180107/3OgyH69W/index.m3u8"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "爱丽丝梦游仙境",
+            "num": "00059",
+            "urllist": "http://vip.okokbo.com/20180106/U4aXUFBR/index.m3u8"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "爱丽丝梦游仙境2",
+            "num": "00060",
+            "urllist": "http://vip.okokbo.com/20180105/25aJrCED/index.m3u8"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "奇幻森林",
+            "num": "00061",
+            "urllist": "http://vip.okokbo.com/20171218/QHgnKkpn/index.m3u8"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "圆梦巨人",
+            "num": "00062",
+            "urllist": "http://ifeng.com-l-ifeng.com/20180511/1285_fd1e7fb7/index.m3u8"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "神偷奶爸",
+            "num": "00063",
+            "urllist": "http://vip.okokbo.com/20171216/CeqKoh6X/index.m3u8"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "神偷奶爸2",
+            "num": "00064",
+            "urllist": "http://vip.okokbo.com/20180320/I1oWBS9w/index.m3u8"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "神偷奶爸3",
+            "num": "00065",
+            "urllist": "http://ifeng.com-l-ifeng.com/20180511/1117_7ddb0f66/index.m3u8"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "玩具总动员",
+            "num": "00066",
+            "urllist": "http://vip.okokbo.com/20180319/FBmxBGx5/index.m3u8"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "玩具总动员2",
+            "num": "00067",
+            "urllist": "http://vip.okokbo.com/20171223/97j1UJab/index.m3u8"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "玩具总动员3",
+            "num": "00068",
+            "urllist": "http://vip.okokbo.com/20171216/vtswHVlG/index.m3u8"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "疯狂动物城",
+            "num": "00069",
+            "urllist": "http://vip.okokbo.com/20171211/XOCpZ3K4/index.m3u8"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "胡桃夹子和四个王国",
+            "num": "00070",
+            "urllist": "http://baidu.com-l-baidu.com/20190119/10929_8aa9ae7d/index.m3u8"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "沉睡魔咒",
+            "num": "00071",
+            "urllist": "http://vip.okokbo.com/20180103/Zvj8d3i2/index.m3u8"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "何以为家",
+            "num": "00072",
+            "urllist": "http://www.solezy.me/20190421/hddmFD7p/index.m3u8"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "老师好",
+            "num": "00073",
+            "urllist": "http://cdn-5.haku99.com/hls/2019/05/01/IAI7ZFFe/playlist.m3u8"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "惊奇队长",
+            "num": "00074",
+            "urllist": "http://iqiyi.com-t-iqiyi.com/20190421/1694_c739e1cd/index.m3u8"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "飞驰人生",
+            "num": "00075",
+            "urllist": "http://bilibili.com-h-bilibili.com/20190328/8250_eff6acee/index.m3u8"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "小鬼当家",
+            "num": "00076",
+            "urllist": "http://vip.okokbo.com/20171217/wil1hl5D/index.m3u8"
+        },
+        {
+            "itemid": "uid0006",
+            "name": "小鬼当家2",
+            "num": "00077",
+            "urllist": "http://vip.okokbo.com/20171220/2ZZQKzkR/index.m3u8"
+        },
+        {
+            "itemid": "uid0007",
+            "name": "鼠来宝明星俱乐部",
+            "num": "00078",
+            "urllist": "http://vip.okokbo.com/20171221/N6844F3a/index.m3u8"
+        },
+        {
+            "itemid": "uid0007",
+            "name": "鼠来宝3",
+            "num": "00079",
+            "urllist": "http://vip.okokbo.com/20180107/2pgI9Y0B/index.m3u8"
+        },
+        {
+            "itemid": "uid0007",
+            "name": "鼠来宝4萌在囧途",
+            "num": "00080",
+            "urllist": "http://ifeng.com-l-ifeng.com/20180704/16767_01674163/index.m3u8"
+        }
+    ],
+    "type": [
+        {
+            "id": "uid0000",
+            "name": "还珠格格"
+        },
+        {
+            "id": "uid0001",
+            "name": "漫威系列"
+        },
+        {
+            "id": "uid0002",
+            "name": "魔幻大片"
+        },
+        {
+            "id": "uid0003",
+            "name": "迪斯尼系列"
+        },
+        {
+            "id": "uid0004",
+            "name": "剧情片"
+        },
+        {
+            "id": "uid0005",
+            "name": "科幻大片tc"
+        },
+        {
+            "id": "uid0006",
+            "name": "喜剧片"
+        },
+        {
+            "id": "uid0007",
+            "name": "动漫片"
+        }
+    ]
+}
